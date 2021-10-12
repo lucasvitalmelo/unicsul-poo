@@ -22,11 +22,11 @@ public class Paciente {
   }
 
   public String getEdereco() {
-    return endereco;
+    return edereco;
   }
 
   public void setEdereco(String edereco) {
-    this.endereco = edereco;
+    this.edereco = edereco;
   }
 
   public String getTelefone() {
