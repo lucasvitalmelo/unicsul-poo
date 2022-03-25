@@ -11,12 +11,10 @@ public class App {
         paciente1.profissao = "sei la";
 
         paciente2.setNome("Marcelo");
-        paciente2.setDatanascimento("19/08/1998")
+        paciente2.setDatanascimento("19/08/1998");
         paciente2.setEdereco("12312323");
-        paciente2.setRg("123423434")
+        paciente2.setRg("123423434");
         paciente2.setTelefone("11232334");
-        paciente2.setProfissao("Vai saber")
-
-
+        paciente2.setProfissao("Vai saber");
     }
 }
